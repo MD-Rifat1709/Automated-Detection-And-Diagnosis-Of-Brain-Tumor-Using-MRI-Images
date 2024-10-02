@@ -9,4 +9,7 @@ to identify the tumor type and ICD code and segmentation will be done to visuali
 to find its diameter and area. For our project, a preliminary report is being constructed which
 utilizes one MRI image of a brain tumor to diagnose tumor diameter and tumor area.
 
+Dataset used for this project - https://www.kaggle.com/datasets/hieuvodoanminh/jun-chengs-2017-brain-tumor-dataset
+
 This is my undergraduate project and all the sources (including other GitHub Repositories) are credited in the Reference section of the '.pdf' file 'Report' attached along. 
+Run main1.py
