@@ -11,5 +11,5 @@ utilizes one MRI image of a brain tumor to diagnose tumor diameter and tumor are
 
 Dataset used for this project - https://www.kaggle.com/datasets/hieuvodoanminh/jun-chengs-2017-brain-tumor-dataset
 
-This is my undergraduate project and all the sources (including other GitHub Repositories) are credited in the Reference section of the '.pdf' file 'Report' attached along. 
+This is my undergraduate project and all the sources (including other GitHub Repositories) are credited in the Bibilography section of the '.pdf' file 'Report' attached along. 
 Run main1.py
